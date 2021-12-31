@@ -1,0 +1,24 @@
+.logo-container
+{
+    display: inline-flex;
+    cursor: pointer;
+}
+
+.logo-container img
+{
+    width: 130px;
+    height: 130px;
+}
+
+.logo-text
+{
+    font-weight: bold;
+    line-height: 115px;
+    color: #fff;
+    font-size: 35px;
+}
+
+.logo-text span
+{
+    color: #B71AFF;
+}

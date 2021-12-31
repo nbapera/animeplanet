@@ -1,0 +1,75 @@
+.watch
+{
+    width: 100%;
+}
+
+.overview
+{
+    padding: 0 140px;
+    display: flex;
+    margin: 20px;
+}
+
+.anime-image
+{
+    width: 281px;
+    height: 380px;
+    border-radius: 16px;
+    margin: 30px;
+}
+
+.anime-info
+{
+    margin: 30px;
+}
+
+.anime-info span
+{
+    color: #5DFFEF;
+    font-weight: bold;
+}
+
+.anime-infor
+{
+    margin-top: 20px;
+}
+
+.episodes
+{
+    margin: 190px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pick-episode
+{
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #fff;
+    border: none;
+    background-color: #0a0a0a;
+    text-align: center;
+    width: 40px;
+    height: 35px;
+    margin: 5px;
+}
+
+.ep-number
+{
+    margin: 0 190px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.episodes-text
+{
+    margin: 100px 190px -140px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.ep-number span
+{
+    color: #5DFFEF;
+}

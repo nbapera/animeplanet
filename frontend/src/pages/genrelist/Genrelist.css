@@ -1,0 +1,15 @@
+.genre
+{
+    margin: 100px 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.genrelist
+{
+    cursor: pointer;
+    font-weight: bold;
+    margin: 30px;
+    color: #fff;
+    font-size: 30px;
+}

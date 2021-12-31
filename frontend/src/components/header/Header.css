@@ -1,0 +1,54 @@
+header
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+header ul
+{
+    display: inline-flex;
+    list-style: none;
+}
+
+.header-logo
+{
+    display: inline-flex;
+}
+
+header li
+{
+    font-weight: bold;
+    margin: 30px 20px;
+    font-size: 23px;
+}
+
+header li a
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+.header-search
+{
+    outline: none;
+    height: 10px;
+    padding: 20px;
+    width: 330px;
+    margin: 35px 40px 0 0;
+    border-radius: 16px;
+    border: none;
+    background-color: #1a1a1a;
+    color: #fff;
+    font-size: 15px;
+}
+
+.header-icon
+{
+    position: absolute;
+    color: #fff;
+    font-size: 25px;
+    right: 60px;
+    top: 47px;
+    cursor: pointer;
+}

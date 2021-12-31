@@ -1,0 +1,12 @@
+.cards
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px 50px;
+}
+
+.search-res span
+{
+    color: #B71AFF;
+}

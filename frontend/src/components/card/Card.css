@@ -1,0 +1,23 @@
+.card-image
+{
+    border-radius: 16px;
+    width: 281px;
+    height: 370px;
+}
+
+.card
+{
+    text-decoration: none;
+    cursor: pointer;
+    margin: 30px;
+}
+
+.card-title
+{
+    display: block;
+    width: 280px;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+}
